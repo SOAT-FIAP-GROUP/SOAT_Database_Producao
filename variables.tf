@@ -5,7 +5,7 @@ variable "aws_region" {
 }
 
 variable "bucket" {
-  default = "meu-terraform-states-soat"  
+  default = "meu-terraform-states-soat-1"
 }
 
 variable "local_name" {
